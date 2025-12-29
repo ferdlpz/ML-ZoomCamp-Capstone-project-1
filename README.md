@@ -26,7 +26,7 @@ Feautures
 |Sex| binary | 
 |Chest pain type | categorical | 
 |BP| numerical |
-|Cholesterol| | numerical |
+|Cholesterol | numerical |
 |FBS over 120| binary |
 |EKG results| categorical | 
 |Max HR| numerical |
